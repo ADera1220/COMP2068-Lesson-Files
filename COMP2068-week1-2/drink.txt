@@ -1,0 +1,8 @@
+water
+coffee
+ginger ale
+apple juice
+tea
+milk
+latte
+smoothie

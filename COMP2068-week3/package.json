@@ -1,0 +1,16 @@
+{
+  "name": "week-3",
+  "version": "1.0.0",
+  "description": "routing with connect",
+  "main": "server.js",
+  "dependencies": {
+    "connect": "^3.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Adera1220",
+  "license": "ISC"
+}
